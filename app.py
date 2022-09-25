@@ -29,7 +29,7 @@ with st.container():
         st.write("""
         So many deaths due to Covid and we have ended up treating them as just statictics which is very sad and painful if you really think about all the people who have lost their loved ones.
         """)
-        st.image("images/coviddeaths.png")
+        st.image("images/750x.png")
 
 
 
@@ -47,7 +47,7 @@ with st.container():
         st.write("""
         Drug Overdose is one of the most biggest health concerns in America and this visualization gives you the view of Drug Overdose Death Rates 2014-2019. 
         """)
-        st.image("images/drugoverdosedeathrates.PNG")
+        st.image("images/750x.PNG")
 
        
 
@@ -58,14 +58,14 @@ with st.container():
         st.write("""
         Crimes in the cities are the biggest challenges for the law and order authorities. This dashboard view gives a glimpse of Seattle crimes numbers between 2008 and 2017. 
         """)
-        st.image("images/seattlecrimes.PNG")
+        st.image("images/750x.PNG")
 
     with col2:
         st.markdown("**Spider Species Identified in North America**")
         st.write("""
         There are over 45000 spider species in the world and 7000 out of those are in North American Countries. 
         """)
-        st.image("images/spiders_northamerica.PNG")
+        st.image("images/750x.PNG")
 
 
 with st.container():
@@ -75,14 +75,14 @@ with st.container():
         st.write("""
         This dashboard gives you a view of the gun violence reported across America from 2014 to 2017.
         """)
-        st.image("images/GunViolence.png")
+        st.image("images/750x.png")
 
     with col2:
         st.markdown("[Montgomery County - 911 Calls](https://public.tableau.com/app/profile/umeshjn/viz/911-MontgomeryCounty/911-MontgomeryCounty)")
         st.write("""
         This dashboard gives you a view of 911 Emergency Calls made in Montgomery County, PA.
         """)
-        st.image("images/911-MontgomeryCounty.png")
+        st.image("images/750x.png")
 
 
 with st.container():
@@ -92,11 +92,11 @@ with st.container():
         st.write("""
         This dashboard gives you a view of bicycle hiring in Chicago from 2014 to 2017.
         """)
-        st.image("images/ChicagoBiCycleSharing.png")
+        st.image("images/750x.png")
 
     with col2:
         st.markdown("[Airbnb Listings in NewYork City](https://public.tableau.com/app/profile/umeshjn/viz/AirbnbNewYorkCityListings_16316414938610/NyCityAirbnbLIsting)")
         st.write("""
         Interactive Dashboard to View the Map of the Airbnb listings in NewYork City
         """)
-        st.image("images/NyCityAirbnbLIsting.png")
+        st.image("images/750x.png")
