@@ -22,7 +22,7 @@ with st.container():
         st.write("""
         Fight against Covid19 is into third year almost and the numbers are increasing against due to the new variant.
         """)
-        st.image("images/Covid19 Case USA.png")
+        st.image("images/750x.png")
 
     with col2:
         st.markdown("[Covid Deaths in USA(2020 and 2021)](https://public.tableau.com/app/profile/umeshjn/viz/CovidDeathsinUSA2020and2021/CovidDeathsUSA2020and2021)")
