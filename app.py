@@ -20,13 +20,13 @@ with st.container():
     with col1:
         st.markdown("[Airbnb Listings in NewYork City](https://public.tableau.com/app/profile/anita.bhanja/viz/NewYorkCityAirbnb_16639602543610/NewYorkCityAirbnb)")
         st.write("""
-        Interactive Dashboard to View the Map of the Airbnb listings in NewYork City
+        Interactive Dashboard to view the Map of the Airbnb listings in NewYork City
         """)
         st.image("images/NewYork_City_Airbnb.png")
 
     with col2:
-        st.markdown("[Airbnb Listings in NewYork City](https://public.tableau.com/app/profile/anita.bhanja/viz/NewYorkCityAirbnb_16639602543610/NewYorkCityAirbnb)")
+        st.markdown("[Sales Projection](https://public.tableau.com/app/profile/anita.bhanja/viz/SalesProjection_16636216323450/SalesKPIDashboard)")
         st.write("""
-        Interactive Dashboard to View the Map of the Airbnb listings in NewYork City
+        Interactive Dashboard to view the sales projection of Superstore
         """)
-        st.image("images/NewYork_City_Airbnb.png")
+        st.image("images/Sales_KPI_Dashboard.png")
