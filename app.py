@@ -7,7 +7,7 @@ st.markdown("""
 """)
 
 
-st.markdown("****This web app is created to give you a glimpse into my skills and all these are built out of my own personal interest in the data and the topics****")
+st.markdown("_This web app is created to give you a glimpse into my skills and all these are built out of my own personal interest in the data and the topics_")
 
 st.markdown("### Data Visualizations - Tableau")
 st.markdown("""
