@@ -7,7 +7,7 @@ st.markdown("""
 """)
 
 
-st.markdown("***This web app is created to give you a glimpse into my skills and all these are built out of my own personal interest in the data and the topics***")
+st.markdown("****This web app is created to give you a glimpse into my skills and all these are built out of my own personal interest in the data and the topics****")
 
 st.markdown("### Data Visualizations - Tableau")
 st.markdown("""
@@ -25,7 +25,7 @@ with st.container():
         st.image("images/NewYork_City_Airbnb.png")
 
     with col2:
-        st.markdown("[Sales Projection](https://public.tableau.com/app/profile/anita.bhanja/viz/SalesProjection_16636216323450/SalesKPIDashboard)")
+        st.markdown("[Superstore Sales Projection](https://public.tableau.com/app/profile/anita.bhanja/viz/SalesProjection_16636216323450/SalesKPIDashboard)")
         st.write("""
         Interactive Dashboard to view the sales projection of Superstore
         """)
