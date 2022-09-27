@@ -34,7 +34,13 @@ with st.container():
 st.markdown("### Data Analysis using SQL")
 st.markdown("""
     SQL is a powerful programming language that helps data analysts interact with data stored in Relational databases. 
-    Here in this section I present the "Global Deforestation" project as part of SQL Nanodegree from Udacity using **SQL** and recommendations.
+    Here in this section I present the "Global Deforestation" project as part of SQL Nanodegree from Udacity using **SQL** and given recommendations.
 """)
 st.markdown("[Global Deforestion](https://github.com/anitabhanja/SQL_NanoDegree/blob/main/Deforestation-exploration_report.pdf)")
 st.image("images/SQL_Nanodegree.PNG",width=350)
+
+
+st.markdown("### Data Analysis using Excel")
+st.markdown("""
+    Coming soon...
+""")
