@@ -30,3 +30,11 @@ with st.container():
         Interactive Dashboard to view the sales projection of Superstore
         """)
         st.image("images/Sales_KPI_Dashboard.png")
+
+st.markdown("### Data Analysis using SQL")
+st.markdown("""
+    SQL is a powerful programming language that helps data analysts interact with data stored in Relational databases. 
+    Here in this section I present the "Global Deforestation" project as part of SQL Nanodegree from Udacity using **SQL** and recommendations.
+""")
+st.markdown("[Global Deforestion](https://github.com/anitabhanja/SQL_NanoDegree/blob/main/Deforestation-exploration_report.pdf)")
+st.image("images/Sales_KPI_Dashboard.png")
