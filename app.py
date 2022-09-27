@@ -39,8 +39,3 @@ st.markdown("""
 st.markdown("[Global Deforestion](https://github.com/anitabhanja/SQL_NanoDegree/blob/main/Deforestation-exploration_report.pdf)")
 st.image("images/SQL_Nanodegree.PNG",width=350)
 
-
-st.markdown("### Data Analysis using Excel")
-st.markdown("""
-    Coming soon...
-""")
