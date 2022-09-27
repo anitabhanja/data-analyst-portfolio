@@ -37,4 +37,4 @@ st.markdown("""
     Here in this section I present the "Global Deforestation" project as part of SQL Nanodegree from Udacity using **SQL** and recommendations.
 """)
 st.markdown("[Global Deforestion](https://github.com/anitabhanja/SQL_NanoDegree/blob/main/Deforestation-exploration_report.pdf)")
-st.image("images/SQL_Nanodegree.PNG")
+st.image("images/SQL_Nanodegree.PNG",width=250)
