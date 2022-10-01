@@ -3,7 +3,7 @@ import streamlit as st
 st.markdown("# Anita Bhanja")
 st.markdown("### Data Analyst")
 st.markdown("""
-    **I am a Data Analyst Enthusiast, with experience in working through entire life cycle of data analysis projects starting with data collection, data cleaning, data modelling, data analysis and data visualization. I can map the Business Requirements as a Business Analyst and as a Data Analyst translate them into operational dashboards and draw insights. I am experienced with the latest tools and technologies for helping the businesses to understand their data, build data pipelines to collect data from multiple sources, structure to answer strategic queries and build dashboards for presenting the findings to both technical and non-technical audience. I have very good knowledge on SQL and ETL processes; Data Extraction, Data Transformation and Data Loading falls under my expertise.**
+    **I am a Data Analyst Enthusiast, with experience in working through entire life cycle of data analysis projects starting with data collection, data cleaning, data modelling, data analysis and data visualization. I can map the Business Requirements as a Business Analyst and as a Data Analyst translate them into operational dashboards and draw insights. I am experienced with the latest tools and technologies for helping businesses to understand their data, build data pipelines to collect data from multiple sources, structure to answer strategic queries and build dashboards for presenting the findings to both technical and non-technical audience. I have very good knowledge on SQL and ETL processes; Data Extraction, Data Transformation and Data Loading falls under my expertise.**
 """)
 
 
