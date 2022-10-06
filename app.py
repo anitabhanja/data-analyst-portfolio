@@ -31,6 +31,18 @@ with st.container():
         """)
         st.image("images/Sales_KPI_Dashboard.png")
 
+with st.container():
+    col1, col2 = st.columns((4,4))
+    with col1:
+        st.markdown("[Park Crime Report (NYC)](https://public.tableau.com/app/profile/anita.bhanja/viz/ParkCrimeReportNYC/StatsNYCParkCrimes)")
+        st.write("""
+        Interactive Dashboard to view Crime Report for New York Parks
+        """)
+        st.image("images/NewYork_City_Airbnb.png")
+         
+         
+         
+
 st.markdown("### Data Analysis using SQL")
 st.markdown("""
     SQL is a powerful programming language that helps data analysts interact with data stored in Relational databases. 
