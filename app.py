@@ -36,9 +36,9 @@ with st.container():
     with col1:
         st.markdown("[Park Crime Report (NYC)](https://public.tableau.com/app/profile/anita.bhanja/viz/ParkCrimeReportNYC/StatsNYCParkCrimes)")
         st.write("""
-        Interactive Dashboard to view Crime Report for New York Parks
+        Interactive Dashboard to view Crime Report for New York Parks (PDF Report Analysis)
         """)
-        st.image("images/NewYork_City_Airbnb.png")
+        st.image("images/Stats NYC Park Crimes.png")
          
          
          
