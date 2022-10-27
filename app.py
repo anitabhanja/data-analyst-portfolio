@@ -2,6 +2,7 @@ import streamlit as st
 
 st.markdown("# Anita Bhanja")
 st.markdown("### Data Analyst")
+
 st.markdown("""
     **I am a Data Analyst Enthusiast, with experience in working through entire life cycle of data analysis projects starting with data collection, data cleaning, data modelling, data analysis and data visualization. I can map the Business Requirements as a Business Analyst and as a Data Analyst translate them into operational dashboards and draw insights. I am experienced with the latest tools and technologies for helping businesses to understand their data, build data pipelines to collect data from multiple sources, structure to answer strategic queries and build dashboards for presenting the findings to both technical and non-technical audience. I have very good knowledge on SQL and ETL processes; Data Extraction, Data Transformation and Data Loading falls under my expertise.**
 """)
@@ -51,3 +52,10 @@ st.markdown("""
 st.markdown("[Global Deforestion](https://github.com/anitabhanja/SQL_NanoDegree/blob/main/Deforestation-exploration_report.pdf)")
 st.image("images/SQL_Nanodegree.PNG",width=350)
 
+
+st.markdown("### Magic of Excel in Data Analysis")
+st.markdown("""
+    Microsoft Excel is one of the most popular applications for data analysis. Equipped with built-in pivot tables, they are without a doubt the most sought-after analytic tool available. It is an all-in-one data management software that allows you to easily import, explore, clean, analyze, and visualize your data.
+""")
+st.markdown("[Pivot Table](https://github.com/anitabhanja/Magic-of-Excel)")
+st.image("images/excel_pivot.PNG",width=350)
