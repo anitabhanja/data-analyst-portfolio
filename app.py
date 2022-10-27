@@ -58,4 +58,4 @@ st.markdown("""
     Microsoft Excel is one of the most popular applications for data analysis. Equipped with built-in pivot tables, they are without a doubt the most sought-after analytic tool available. It is an all-in-one data management software that allows you to easily import, explore, clean, analyze, and visualize your data.
 """)
 st.markdown("[Pivot Table](https://github.com/anitabhanja/Magic-of-Excel)")
-st.image("images/excel_pivot.PNG",width=350)
+st.image("images/excel_pivot.png",width=350)
