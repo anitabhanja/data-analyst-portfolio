@@ -49,9 +49,18 @@ st.markdown("""
     SQL is a powerful programming language that helps data analysts interact with data stored in Relational databases. 
     Here in this section I present the "Global Deforestation" project as part of SQL Nanodegree from Udacity using **SQL** and given recommendations.
 """)
-st.markdown("[Global Deforestion](https://github.com/anitabhanja/SQL_NanoDegree/blob/main/Deforestation-exploration_report.pdf)")
-st.image("images/SQL_Nanodegree.PNG",width=350)
+#st.markdown("[Global Deforestion](https://github.com/anitabhanja/SQL_NanoDegree/blob/main/Deforestation-exploration_report.pdf)")
+#st.image("images/SQL_Nanodegree.PNG",width=350)
+with st.container():
+    col1, col2 = st.columns((3,3))
+    with col1:
+        st.markdown("[Global Deforestion](https://github.com/anitabhanja/SQL_NanoDegree/blob/main/Deforestation-exploration_report.pdf)")
+        st.image("images/Global_Deforestation.PNG",width=350)
 
+    with col2:
+        st.markdown("[Udiddit, a social news aggregator](https://github.com/anitabhanja/SQL_NanoDegree/blob/main/udiddit-a-social-news-aggregator.pdf)")
+        st.image("images/Udiddit.PNG",width=350)
+        
 
 st.markdown("### Magic of Excel in Data Analysis")
 st.markdown("""
