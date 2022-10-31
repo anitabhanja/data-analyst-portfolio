@@ -67,3 +67,19 @@ st.markdown("""
 """)
 st.markdown("[Who Americans Spend Their Time With?](https://github.com/anitabhanja/jupyternotebook/blob/main/EDA-time-spent-with-relationships-by-age-us-checkpoint.ipynb)")
 st.image("images/Americans_Time_Spend.PNG",width=350)
+
+with st.container():
+    col1, col2 = st.columns((3,3))
+    with col1:
+        st.markdown("[Exploratory data analysis on car features](https://github.com/anitabhanja/jupyternotebook/blob/main/EDA-time-spent-with-relationships-by-age-us-checkpoint.ipynb)")
+        st.write("""
+        Exploratory Data Analysis or (EDA) on car dataset.
+        """)
+        st.image("images/EDA_CarFeatures.PNG",width=350)
+
+    with col2:
+        st.markdown("[Who Americans Spend Their Time With?](https://github.com/anitabhanja/jupyternotebook/blob/main/EDA-time-spent-with-relationships-by-age-us-checkpoint.ipynb)")
+        st.write("""
+        As humans, we have heavily relied on cooperation and social relationships to thrive. Of course, who we spend time with evolves throughout our lifetime.
+        """)
+        st.image("images/Americans_Time_Spend.PNG",width=350)
