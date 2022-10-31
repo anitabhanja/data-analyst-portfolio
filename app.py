@@ -59,3 +59,11 @@ st.markdown("""
 """)
 st.markdown("[Pivot Table](https://github.com/anitabhanja/Magic-of-Excel)")
 st.image("images/excel_pivot.png",width=350)
+
+
+st.markdown("### Python and Data (Jupyter Notebooks)")
+st.markdown("""
+    Jupyter Notebooks is a great tool for all the data analysis tasks from exploring, cleaning, visualizing to present the data stories to the target audience.
+""")
+st.markdown("[Who Americans Spend Their Time With?](https://github.com/anitabhanja/jupyternotebook/EDA-time-spent-with-relationships-by-age-us-checkpoint.ipynb)")
+st.image("images/Americans_Time_Spend.png",width=350)
