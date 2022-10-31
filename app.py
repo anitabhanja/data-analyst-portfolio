@@ -81,6 +81,7 @@ with st.container():
         st.markdown("[Exploratory data analysis on car features](https://github.com/anitabhanja/jupyternotebook/blob/main/EDA-time-spent-with-relationships-by-age-us-checkpoint.ipynb)")
         st.write("""
         Exploratory Data Analysis or (EDA) on car dataset.
+        
         """)
         st.image("images/EDA_CarFeatures.PNG",width=350)
 
