@@ -78,6 +78,6 @@ with st.container():
     with col2:
         st.markdown("[Who Americans Spend Their Time With?](https://github.com/anitabhanja/jupyternotebook/blob/main/EDA-time-spent-with-relationships-by-age-us-checkpoint.ipynb)")
         st.write("""
-        As humans, we have heavily relied on cooperation and social relationships to thrive. Of course, who we spend time with evolves throughout our lifetime.
+        As humans, we have heavily relied on social relationships to thrive and who we spend time with evolves throughout our lifetime.
         """)
         st.image("images/Americans_Time_Spend.PNG",width=350)
