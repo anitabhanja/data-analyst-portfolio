@@ -65,5 +65,5 @@ st.markdown("### Python and Data (Jupyter Notebooks)")
 st.markdown("""
     Jupyter Notebooks is a great tool for all the data analysis tasks from exploring, cleaning, visualizing to present the data stories to the target audience.
 """)
-st.markdown("[Who Americans Spend Their Time With?](https://github.com/anitabhanja/jupyternotebook/EDA-time-spent-with-relationships-by-age-us-checkpoint.ipynb)")
+st.markdown("[Who Americans Spend Their Time With?](https://github.com/anitabhanja/jupyternotebook/blob/main/EDA-time-spent-with-relationships-by-age-us-checkpoint.ipynb)")
 st.image("images/Americans_Time_Spend.PNG",width=350)
