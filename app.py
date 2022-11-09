@@ -78,7 +78,7 @@ st.markdown("""
 with st.container():
     col1, col2 = st.columns((3,3))
     with col1:
-        st.markdown("[Exploratory data analysis on car features](https://github.com/anitabhanja/jupyternotebook/blob/main/EDA-time-spent-with-relationships-by-age-us-checkpoint.ipynb)")
+        st.markdown("[Exploratory data analysis on car features](https://github.com/anitabhanja/jupyternotebook/blob/main/Car_Features_EDA.ipynb)")
         st.write("""
         Exploratory Data Analysis or (EDA) on car dataset.
         
